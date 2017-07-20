@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -71,7 +71,7 @@ a:hover:after, a:active:after, a:focus:after {
 }
 
 p {
-  margin-bottom: 30px;
+  margin-bottom: 5px;
   margin-top: 0;
   padding-top: 0;
 }
@@ -138,6 +138,8 @@ h1, h2, h3, h4, h5, h6, figure {
   -ms-border-radius: 50%;
   border-radius: 50%;
   border: 10px solid #fff;
+  width:204px;
+  height:204px;
 }
 #fh5co-header .bio-photo a:after {
   display: none !important;
@@ -177,6 +179,8 @@ h1, h2, h3, h4, h5, h6, figure {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
+  width:360px;
+  height:298px;
 }
 .fh5co-works .work > a:hover img {
   -webkit-transform: scale(1.2);
