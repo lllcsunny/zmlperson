@@ -179,8 +179,8 @@ h1, h2, h3, h4, h5, h6, figure {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
-  width:360px;
-  height:298px;
+  /*width:360px;*/
+  /*height:298px;*/
 }
 .fh5co-works .work > a:hover img {
   -webkit-transform: scale(1.2);
